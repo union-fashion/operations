@@ -5,7 +5,7 @@ You can find the Union Fashion operations workspace on the Postman platform, wit
 
 ## Deployment
 
-| Collection | Workspace | Run in Postman | Run in Postman |
+| Collection Name | | | |
 | :---         | :---       | :---:  | :---:  |
 | Deploy API to AWS API Gateway with DynamoDB Backend | [Workspace](https://union-fashion.postman.co/collections/10394726-7b3a09ba-d302-425f-8ddc-5c075530c1df) | [![Documentation](https://kinlane-productions.s3.amazonaws.com/postman/postman-documentation-button.png)](https://documenter.getpostman.com/view/10394726/Szf6XTqp?version=latest) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/2b87de2d53001e658663) |
 | Deploy API to AWS API Gateway with Lamdba and RDS Backend | [Workspace](https://union-fashion.postman.co/collections/10394726-d717b77b-dc5d-474a-81ba-a39f0273c6bd) | [![Documentation](https://kinlane-productions.s3.amazonaws.com/postman/postman-documentation-button.png)](https://documenter.getpostman.com/view/10394726/Szf6X8Wd?version=latest) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f17f39e70ec132c85950) |
