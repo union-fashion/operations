@@ -27,4 +27,4 @@ You can find the Union Fashion operations workspace on the Postman platform, wit
 
 | Collection Name | | | |
 | :---         | :---       | :---:  | :---:  |
-| Governance | [Workspace](https://union-fashion.postman.co/collections/10394726-7b3a09ba-d302-425f-8ddc-5c075530c1df) | [![Documentation](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest)](Governance) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0bca11c2266487c46b39) |
+| Governance | [Workspace](https://union-fashion.postman.co/collections/10394726-7b3a09ba-d302-425f-8ddc-5c075530c1df) | [![Documentation](https://kinlane-productions.s3.amazonaws.com/postman/postman-documentation-button.png)](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest)](Governance) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0bca11c2266487c46b39) |
